@@ -51,4 +51,8 @@
 			<url>http://ci.medunigraz.at/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
+	<scm>
+		<connection>scm:git:ssh://github.com/medunigraz/alfresco-event-scheduling.git</connection>
+		<url>https://github.com/medunigraz/alfresco-event-scheduling</url>
+	</scm>
 </project>
