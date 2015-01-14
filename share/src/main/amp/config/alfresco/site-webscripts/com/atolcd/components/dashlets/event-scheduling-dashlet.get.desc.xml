@@ -19,6 +19,6 @@
 <webscript>
   <shortname>Event Scheduling</shortname>
   <description>Displays user events</description>
-  <family>dashlet</family>
+  <family>site-dashlet</family>
   <url>/components/dashlets/event-scheduling</url>
 </webscript>
