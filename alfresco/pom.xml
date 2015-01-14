@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>at.medunigraz.ifs</groupId>
 		<artifactId>alfresco-event-scheduling</artifactId>
-		<version>1.1-SNAPSHOT</version>
+		<version>1.1</version>
 	</parent>
 
 	<dependencies>
