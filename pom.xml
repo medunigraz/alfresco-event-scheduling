@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>at.medunigraz.ifs</groupId>
 	<artifactId>alfresco-event-scheduling</artifactId>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<name>Event scheduling dashlet for Alfresco</name>
 	<description>This extension allows you to plan events directly from a Share site dashlet.</description>
 	<packaging>pom</packaging>
