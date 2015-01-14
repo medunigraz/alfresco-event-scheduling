@@ -56,4 +56,20 @@
 		<developerConnection>scm:git:git@github.com:medunigraz/alfresco-event-scheduling.git</developerConnection>
 		<url>https://github.com/medunigraz/alfresco-event-scheduling</url>
 	</scm>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>versions-maven-plugin</artifactId>
+				<version>2.1.4</version>
+			</plugin>
+			<plugin>
+				<artifactId>maven-scm-plugin</artifactId>
+				<version>1.9.2</version>
+				<configuration>
+					<tag>${project.artifactId}-${project.version}</tag>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>
